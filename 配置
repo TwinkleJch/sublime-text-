@@ -1,0 +1,15 @@
+下载链接：链接：https://pan.baidu.com/s/1175qqrukPQc1JvEdsKmYqA?pwd=twkl 
+提取码：twkl
+
+1. 文件名不能显示中文
+解决方案：
+首选项 设置-用户 加上"dpi_scale":1.0,
+原理是改缩放
+
+2. 配置python
+忘记整理了，有空再整理
+
+3.插件安装
+好像会出现问题
+https://blog.csdn.net/qq_38200194/article/details/100149279
+https://packagecontrol.io/installation
